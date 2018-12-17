@@ -1,0 +1,23 @@
+
+
+#hero-wine{
+   background: url('../img/wine.jpg') no-repeat center center scroll; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 400px;
+}
+
+#wrapper-footer{
+    background: #555;
+    color: white;
+}
+
+#wrapper-footer a{
+    color: #aaa;
+}
+
+#wrapper-footer a:hover{
+    text-decoration: underline;
+}
